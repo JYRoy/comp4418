@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a8f85a9-a579-4bf5-b3bf-bdf64211a4ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment1/file13.cnf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment1/file14.cnf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment1/file15.cnf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/generator.py" afterPath="$PROJECT_DIR$/assignment1/generator.py" />
     </list>
@@ -15,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/comp4418$generator.coverage" NAME="generator Coverage Results" MODIFIED="1602923129023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment1" />
+    <SUITE FILE_PATH="coverage/comp4418$generator.coverage" NAME="generator Coverage Results" MODIFIED="1602923493881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment1" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
@@ -349,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602922666749</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add 13 14 cnf file">
+      <created>1602923171108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602923171108</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -426,7 +432,8 @@
     <MESSAGE value="update generator.py" />
     <MESSAGE value="update files" />
     <MESSAGE value="update cnf file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update cnf file" />
+    <MESSAGE value="Add 13 14 cnf file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 13 14 cnf file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

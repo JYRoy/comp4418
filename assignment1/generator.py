@@ -12,7 +12,7 @@ So you just need to run this program one time and input the parameters by follow
 
 if __name__ == '__main__':
     # generate 13 files for test
-    for count in range(14,15):
+    for count in range(15,16):
         # create a cnfW file
         filename = "file" + str(count) + ".cnf"
         fo = open(filename, "w")
