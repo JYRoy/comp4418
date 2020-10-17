@@ -13,6 +13,6 @@ if __name__ == '__main__':
     plt.xlabel("C values")
     plt.ylabel("CPU time")
 
-    plt.savefig("Bar Chat.jpg", bbox_inches="tight")
+    plt.savefig("Line Chart.jpg", bbox_inches="tight")
 
     plt.show()

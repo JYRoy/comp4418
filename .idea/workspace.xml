@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a8f85a9-a579-4bf5-b3bf-bdf64211a4ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment1/file13Statistics.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment1/file14Statistics.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment1/file15Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/Bar Chat.jpg" afterPath="$PROJECT_DIR$/assignment1/Bar Chat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment1/Line Chart.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment1/Bar Chat.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/3.docx" afterPath="$PROJECT_DIR$/assignment1/3.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/barchat.py" afterPath="$PROJECT_DIR$/assignment1/barchat.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file0Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file0Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file10Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file10Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file11Satistics.txt" afterPath="$PROJECT_DIR$/assignment1/file11Satistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file12Satistics.txt" afterPath="$PROJECT_DIR$/assignment1/file12Satistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file2Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file2Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file3Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file3Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file4Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file4Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file5Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file5Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file6Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file6Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file7Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file7Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file8Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file8Statistics.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/file9Statistics.txt" afterPath="$PROJECT_DIR$/assignment1/file9Statistics.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assignment1/barchat.py" afterPath="$PROJECT_DIR$/assignment1/linechart.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,6 +18,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/comp4418$barchat.coverage" NAME="barchat Coverage Results" MODIFIED="1602924377434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment1" />
     <SUITE FILE_PATH="coverage/comp4418$generator.coverage" NAME="generator Coverage Results" MODIFIED="1602923493881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment1" />
+    <SUITE FILE_PATH="coverage/comp4418$linechart.coverage" NAME="linechart Coverage Results" MODIFIED="1602924597148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment1" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
@@ -47,18 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bar Chat.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/Bar Chat.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="barchat.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignment1/barchat.py">
+      <file leaf-file-name="linechart.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment1/linechart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="253">
+              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -74,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/assignment1/generator.py" />
         <option value="$PROJECT_DIR$/assignment1/barchat.py" />
+        <option value="$PROJECT_DIR$/assignment1/linechart.py" />
       </list>
     </option>
   </component>
@@ -84,9 +66,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="976" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -152,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.barchat">
+  <component name="RunManager" selected="Python.linechart">
     <configuration default="false" name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,7 +167,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="comp4418" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment1/barchat.py" />
+      <option name="SCRIPT_NAME" value="E:\OneDrive - UNSW\Master\Courses\4418\assignments\comp4418\assignment1\linechart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="linechart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="comp4418" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment1/linechart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,14 +340,16 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.generator" />
       <item index="1" class="java.lang.String" itemvalue="Python.barchat" />
+      <item index="2" class="java.lang.String" itemvalue="Python.linechart" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.barchat" />
-        <item index="1" class="java.lang.String" itemvalue="Python.generator" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.linechart" />
+        <item index="1" class="java.lang.String" itemvalue="Python.barchat" />
+        <item index="2" class="java.lang.String" itemvalue="Python.generator" />
       </list>
     </recent_temporary>
   </component>
@@ -417,13 +420,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602923526273</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update fileStatistics and bar chart">
+      <created>1602924533970</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602924533970</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="-8" width="976" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22052401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10927505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -496,7 +506,8 @@
     <MESSAGE value="update cnf file" />
     <MESSAGE value="Add 13 14 cnf file" />
     <MESSAGE value="Add 15 cnf file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 15 cnf file" />
+    <MESSAGE value="Update fileStatistics and bar chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update fileStatistics and bar chart" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -546,10 +557,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/barchat.py">
+    <entry file="file://$PROJECT_DIR$/assignment1/linechart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="253">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding />
         </state>
       </provider>
