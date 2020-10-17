@@ -12,8 +12,8 @@ So you just need to run this program one time and input the parameters by follow
 
 if __name__ == '__main__':
     # generate 13 files for test
-    for count in range(100,130):
-        # create a cnf file
+    for count in range(0,13):
+        # create a cnfW file
         filename = "file" + str(count) + ".cnf"
         fo = open(filename, "w")
 
@@ -30,14 +30,10 @@ if __name__ == '__main__':
         # generate variables and clauses randomly
         for i in range(int(clauses)):
             clause = ""
+            temp_int = []
             for j in range(3):
-                temp_int = choice([k for k in range(-variables, variables) if k != 0])
-                if str(temp_int) and str(-temp_int) not in clause:
-                    clause += str(temp_int) + " "
-                else:
-                    temp_int = choice([k for k in range(-variables, variables) if k != [0, temp_int]])
-                    clause += str(temp_int) + " "
-
+                temp_int.append(choice([k for k in range(-variables, variables) if k not in temp_int and k != 0 and -k not in temp_int]))
+                clause += str(temp_int[j]) + " "
             clause += "0\n"
             fo.write(clause)
 
