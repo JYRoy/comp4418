@@ -1,6 +1,6 @@
 ============================[ Problem Statistics ]=============================
 |                                                                             |
-|  Number of variables:           990                                         |
+|  Number of variables:           997                                         |
 |  Number of clauses:             100                                         |
 |  Parse time:                   0.00 s                                       |
 |  Eliminated clauses:           0.01 Mb                                      |
