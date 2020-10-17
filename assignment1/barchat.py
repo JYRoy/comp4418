@@ -1,15 +1,18 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Author: JYRoooy
+# Author: z5304897
 import matplotlib.pyplot as plt
 
 if __name__ == '__main__':
-    xdata = [0.1, 1.0, 3.0, 3.5, 4.0, 4.25, 4.5, 4.75, 5.0, 7.0, 9.86, 14.86, 20]
+    xdata = [100/997, 100/99, 900/300, 1050/300, 1200/300, 1275/300, 1320/300, 1350/300, 1380/300, 1425/300, 1500/300, 2100/300, 3000/300, 1500/100, 2000/100]
     print(len(xdata))
-    ydata = [0, 0, 0, 0.004, 6.08, 102.248, 52.1, 13.416, 2.296, 0.2, 0, 0, 0]
+    ydata = [0, 0, 0.004, 0.976, 1.064, 7.192, 56.484, 13.408, 8.636, 9.84, 3.508, 0.1, 0.032, 0.004, 0]
     print(len(ydata))
+
     plt.plot(xdata, ydata, linestyle="-", color="b")
     plt.xlabel("C values")
     plt.ylabel("CPU time")
+
     plt.savefig("Bar Chat.jpg", bbox_inches="tight")
+
     plt.show()

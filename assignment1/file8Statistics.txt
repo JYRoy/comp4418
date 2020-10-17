@@ -12,10 +12,10 @@
 ===============================================================================
 ===============================================================================
 restarts              : 1
-conflicts             : 18             (inf /sec)
-decisions             : 17             (0.00 % random) (inf /sec)
-propagations          : 196            (inf /sec)
-conflict literals     : 35             (12.50 % deleted)
+conflicts             : 19             (inf /sec)
+decisions             : 25             (0.00 % random) (inf /sec)
+propagations          : 188            (inf /sec)
+conflict literals     : 49             (10.91 % deleted)
 Memory used           : 5.00 MB
 CPU time              : 0 s
 
